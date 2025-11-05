@@ -5,7 +5,7 @@ int main(){
 	long detik,totaldetik;
 	int jam,menit;
 	
-	cout<<"masukan angka >1 (dalam satuan detik) :";
+	cout<<"masukan angka >1  :";
 	cin>>detik;
 	
 	jam=(detik%86400)/3600;
@@ -17,4 +17,5 @@ int main(){
 	cout<<detik<<" "<<"detik"<<" "<<"="<<jam<<" "<<"jam"<<" "<<menit<<" "<<"menit"<<" "<<totaldetik<<" "<<"detik"<<endl;
 	
 	return 0;
+
 }
