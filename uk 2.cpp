@@ -15,10 +15,14 @@ int main(){
 	
 	cout<<endl;
 	cout<<"hasil konversi:"<<endl;
-	cout<<detik<<" "<<"detik"<<" "<<"="<<hari<<" "<<"hari"<<" "<<jam<<" "<<"jam"<<" "<<menit<<" "<<"menit"<<" "<<jumlahdetik<<" "<<"detik"<<endl;
-	
+	cout<<detik<<" "<<"detik"<<" "<<"="<<endl;
+	cout<<hari<<" "<<"hari"<<endl;
+	cout<<jam<<" "<<"jam"<<endl;
+	cout<<menit<<" "<<"menit"<<endl;
+	cout<<jumlahdetik<<" "<<"detik"<<endl;
 	return 0;
 	
 
 	}
+
 
