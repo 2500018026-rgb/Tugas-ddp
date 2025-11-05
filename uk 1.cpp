@@ -14,9 +14,11 @@ int main(){
 	
 	cout<<endl;
 	cout<<"hasil konversi:"<<endl;
-	cout<<detik<<" "<<"detik"<<" "<<"="<<jam<<" "<<"jam"<<" "<<menit<<" "<<"menit"<<" "<<jumlahdetik<<" "<<"detik"<<endl;
-	
+	cout<<detik<<" "<<"detik"<<" "<<"="<<endl;
+	cout<<jam<<" "<<"jam"<<endl;
+	cout<<menit<<" "<<"menit"<<endl;
+	cout<<jumlahdetik<<" "<<"detik"<<endl;
 	return 0;
+	
 
-}
-
+	}
