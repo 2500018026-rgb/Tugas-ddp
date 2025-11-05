@@ -5,7 +5,7 @@ int main(){
 	long hari,detik,totaldetik;
 	int jam,menit;
 	
-	cout<<"masukan angka >1 (dalam satuan detik) :";
+	cout<<"masukan angka >1  :";
 	cin>>detik;
 	
 	hari=(detik/86400);
@@ -19,4 +19,5 @@ int main(){
 	
 	return 0;
 	
+
 	}
